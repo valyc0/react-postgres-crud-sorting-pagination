@@ -1,0 +1,14 @@
+[
+  {
+    "fieldName": "nome",
+    "sortable": true
+  },
+  {
+    "fieldName": "cognome",
+    "sortable": true
+  },
+  {
+    "fieldName": "email",
+    "sortable": false
+  }
+]
